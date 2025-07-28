@@ -8,4 +8,6 @@ If you are building from source, please install these NodeJS modules:
 - minecraft-data
 
 ## Install
-(todo : add this later ) 
+To install, simply click (here)[https://github.com/InsanePowerTrip/Minecraft-Server-AFK-Bot/releases/latest] and follow the instructions.
+
+It's that simple!
