@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "Colgate012.aternos.me", 
-    "port": 35422,   
+    "ip": "server.ip.address", 
+    "port": 25565,   
     "version": "1.21"   
   },
   
@@ -36,7 +36,7 @@
 
       "messages": [
         "I'm a regular player",
-        "Subscibe To Slobos!",
+        "Subscibe To Power Trip!",
         "I Like to Play Minecraft!"
       ]
     },
@@ -46,3 +46,4 @@
     "auto-recconect-delay": 10000
   }
 }
+
